@@ -18,7 +18,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by alial on 2016-01-27.
+ * Created by alialzayer on 2016-01-27.
  */
 public class SendJSON extends AsyncTask<String, String, String> {
     String strFileContents = null;
