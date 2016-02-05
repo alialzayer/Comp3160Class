@@ -15,6 +15,7 @@ import java.util.Date;
 
 public class MainActivity extends Activity {
 
+
     EditText titel,desc,action;
     static Date cDate = new Date();
     static String DATE = new SimpleDateFormat("yyyy-MM-dd").format(cDate);
